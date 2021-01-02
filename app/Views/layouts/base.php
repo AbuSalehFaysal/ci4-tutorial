@@ -16,14 +16,14 @@
   <!-- Google Fonts -->
   <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,600,600i,700,700i|Playfair+Display:ital,wght@0,400;0,500;0,600;0,700;1,400;1,500;1,600;1,700|Poppins:300,300i,400,400i,500,500i,600,600i,700,700i" rel="stylesheet">
 
-  <!-- Vendor CSS Files -->
-  <link href="<?= base_url(); ?>/public/assets/vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
-  <link href="<?= base_url(); ?>/public/assets/vendor/icofont/icofont.min.css" rel="stylesheet">
-  <link href="<?= base_url(); ?>/public/assets/vendor/boxicons/css/boxicons.min.css" rel="stylesheet">
-  <link href="<?= base_url(); ?>/public/assets/vendor/animate.css/animate.min.css" rel="stylesheet">
-  <link href="<?= base_url(); ?>/public/assets/vendor/owl.carousel/assets/owl.carousel.min.css" rel="stylesheet">
-  <link href="<?= base_url(); ?>/public/assets/vendor/venobox/venobox.css" rel="stylesheet">
-  <link href="<?= base_url(); ?>/public/assets/vendor/aos/aos.css" rel="stylesheet">
+  <!-- vendors CSS Files -->
+  <link href="<?= base_url(); ?>/public/assets/vendors/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+  <link href="<?= base_url(); ?>/public/assets/vendors/icofont/icofont.min.css" rel="stylesheet">
+  <link href="<?= base_url(); ?>/public/assets/vendors/boxicons/css/boxicons.min.css" rel="stylesheet">
+  <link href="<?= base_url(); ?>/public/assets/vendors/animate.css/animate.min.css" rel="stylesheet">
+  <link href="<?= base_url(); ?>/public/assets/vendors/owl.carousel/assets/owl.carousel.min.css" rel="stylesheet">
+  <link href="<?= base_url(); ?>/public/assets/vendors/venobox/venobox.css" rel="stylesheet">
+  <link href="<?= base_url(); ?>/public/assets/vendors/aos/aos.css" rel="stylesheet">
 
   <!-- Template Main CSS File -->
   <link href="<?= base_url(); ?>/public/assets/css/style.css" rel="stylesheet">
@@ -158,15 +158,15 @@
   <div id="preloader"></div>
   <a href="#" class="back-to-top"><i class="bx bx-up-arrow-alt"></i></a>
 
-  <!-- Vendor JS Files -->
-  <script src="<?= base_url(); ?>/public/assets/vendor/jquery/jquery.min.js"></script>
-  <script src="<?= base_url(); ?>/public/assets/vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
-  <script src="<?= base_url(); ?>/public/assets/vendor/jquery.easing/jquery.easing.min.js"></script>
-  <script src="<?= base_url(); ?>/public/assets/vendor/php-email-form/validate.js"></script>
-  <script src="<?= base_url(); ?>/public/assets/vendor/owl.carousel/owl.carousel.min.js"></script>
-  <script src="<?= base_url(); ?>/public/assets/vendor/isotope-layout/isotope.pkgd.min.js"></script>
-  <script src="<?= base_url(); ?>/public/assets/vendor/venobox/venobox.min.js"></script>
-  <script src="<?= base_url(); ?>/public/assets/vendor/aos/aos.js"></script>
+  <!-- vendors JS Files -->
+  <script src="<?= base_url(); ?>/public/assets/vendors/jquery/jquery.min.js"></script>
+  <script src="<?= base_url(); ?>/public/assets/vendors/bootstrap/js/bootstrap.bundle.min.js"></script>
+  <script src="<?= base_url(); ?>/public/assets/vendors/jquery.easing/jquery.easing.min.js"></script>
+  <script src="<?= base_url(); ?>/public/assets/vendors/php-email-form/validate.js"></script>
+  <script src="<?= base_url(); ?>/public/assets/vendors/owl.carousel/owl.carousel.min.js"></script>
+  <script src="<?= base_url(); ?>/public/assets/vendors/isotope-layout/isotope.pkgd.min.js"></script>
+  <script src="<?= base_url(); ?>/public/assets/vendors/venobox/venobox.min.js"></script>
+  <script src="<?= base_url(); ?>/public/assets/vendors/aos/aos.js"></script>
 
   <!-- Template Main JS File -->
   <script src="<?= base_url(); ?>/public/assets/js/main.js"></script>
