@@ -1,6 +1,8 @@
-<?php namespace App\Controllers;
+<?php 
 
+namespace App\Controllers;
 use CodeIgniter\Controller;
+use App\Libraries\TestLibrary;
 
 class Blog extends Controller
 {
